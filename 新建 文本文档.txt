@@ -1,0 +1,2 @@
+django+html+js+css+redis+mysql+whoosh+celery
+静态文件储存在本地
